@@ -23,15 +23,15 @@
 - [Google Java Style Guide](https://seongwon.dev/Java/20211125-Google_Java_Style_Guide/)
 - [Git 커밋 메세지 규약 정리 - The AngularJS commit conventions.](https://seongwon.dev/Git/20211125-Git%EC%BB%A4%EB%B0%8B%20%EB%A9%94%EC%8B%9C%EC%A7%80%20%EA%B7%9C%EC%95%BD/)
 - [JUnit5로 단위 테스트하기](https://seongwon.dev/Java/20211127-Unit-Test%EB%9E%80/)
-- [[우테코 프리코스] 1주차 과제 회고](https://seongwon.dev/Woowacourse/20211128-%EC%9A%B0%ED%85%8C%EC%BD%94%20%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4%201%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C%20%ED%9A%8C%EA%B3%A0/)
+- [[우테코 프리코스] 1주차 과제 회고](https://seongwon.dev/Woowacourse/20211128-%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-%ED%9A%8C%EA%B3%A0/)
 - [Private메서드의 Unit Test](https://seongwon.dev/Java/20211203-Private%EB%A9%94%EC%84%9C%EB%93%9C%EC%9D%98-Unit-Test/)
-- [[우테코 프리코스] 2주차 과제 회고](https://seongwon.dev/Woowacourse/20211203-%EC%9A%B0%ED%85%8C%EC%BD%94%20%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4%202%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C%20%ED%9A%8C%EA%B3%A0/)
+- [[우테코 프리코스] 2주차 과제 회고](https://seongwon.dev/Woowacourse/20211203-%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-2%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-%ED%9A%8C%EA%B3%A0/)
 - [MVC패턴이란?](https://seongwon.dev/ETC/20211207_MVC%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80/)
-- [[우테코 프리코스] 2주차 피드백 정리](https://seongwon.dev/Woowacourse/20211210-%EC%9A%B0%ED%85%8C%EC%BD%94%20%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4%202%EC%A3%BC%EC%B0%A8%20%ED%94%BC%EB%93%9C%EB%B0%B1%20%EC%A0%95%EB%A6%AC/)
+- [[우테코 프리코스] 2주차 피드백 정리](https://seongwon.dev/Woowacourse/20211210-%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-2%EC%A3%BC%EC%B0%A8-%ED%94%BC%EB%93%9C%EB%B0%B1-%EC%A0%95%EB%A6%AC/)
 - [일급 컬렉션이란?](https://seongwon.dev/Java/20211210-%EC%9D%BC%EA%B8%89_%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%B4%EB%9E%80/)
 - [Enum이란?](https://seongwon.dev/Java/20211213-Enum%EC%9D%B4%EB%9E%80/)
 - [싱글턴(Singleton) 패턴이란?](https://seongwon.dev/ETC/20211214_%EC%8B%B1%EA%B8%80%ED%84%B4%20%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80/)
-- [[우테코 프리코스] 3주차 과제 회고](https://seongwon.dev/Woowacourse/20211214-%EC%9A%B0%ED%85%8C%EC%BD%94_%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4_3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C%ED%9A%8C%EA%B3%A0/)
+- [[우테코 프리코스] 3주차 과제 회고](https://seongwon.dev/Woowacourse/20211214-%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-3%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-%ED%9A%8C%EA%B3%A0/)
 - [[우테코 프리코스] 프리코스 참여후기](https://seongwon.dev/Woowacourse/20211214-%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-%EC%B0%B8%EC%97%AC%ED%9B%84%EA%B8%B0/)
 
 
@@ -51,4 +51,3 @@
 - [[우테코] 최종 코딩테스트 대비-2](https://seongwon.dev/Woowacourse/20211217-%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8C%80%EB%B9%842/)
 - [[우테코] 최종 코딩테스트 후기](https://seongwon.dev/Woowacourse/20211218-%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%B5%9C%EC%A2%85-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%9B%84%EA%B8%B0/)
 - [[우테코] 최종 결과](https://seongwon.dev/Woowacourse/20211231-%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%B5%9C%EC%A2%85-%EA%B2%B0%EA%B3%BC/)
-
