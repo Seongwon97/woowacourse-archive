@@ -203,4 +203,5 @@
 
 <br/>
 
-
+## 🎙 10분 테코톡
+- [[10분 테코톡] 렉스의 Git 브랜칭 전략](https://www.youtube.com/watch?v=wtsr5keXUyE&t=25s)
