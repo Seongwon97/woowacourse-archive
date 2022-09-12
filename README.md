@@ -58,12 +58,6 @@
 ### 기간
 - 2022.02.08 – 2022.04.08
 
-### 학습 목표
-- 자바 프로그래밍 언어에 대한 기본 문법을 익혀 프로그래밍하는 경험을 한다.
-- 읽기 좋은 코드를 구현하는 것이 왜 중요한지와 코드를 개선해 읽기 좋은 코드로 변경해 보는 경험을 한다.
-- 자신이 구현한 코드에 대해 단위 테스트와 리팩토링하는 경험을 한다.
-- 웹 프론트엔드에서 웹 백엔드까지 프로그래밍해 웹 애플리케이션을 개발하는 경험을 한다.
-
 ### 진행 미션
 |     Project     |                                         Repository                                          |Pull Request |                Pair                 |             Reviewer              |
 |:---------------:|:-------------------------------------------------------------------------------------------:|:-----------:|:-----------------------------------:|:---------------------------------:|
@@ -153,3 +147,41 @@
 - [Framework vs Library (feat. IoC, 왜 프레임워크를 써야할까?)](https://seongwon.dev/ETC/20220627-Framework-vs-Library/)
 - [[Spring] Spring과 Spring Boot의 차이는 무엇일까?](https://seongwon.dev/Spring/20220628-Spring-vs-SpringBoot/)
 - [[Spring] ArgumentResolver란 무엇일까?](https://seongwon.dev/Spring/20220629-ArgumentResolver%EB%9E%80/)
+
+<br/>
+
+## 🌖 Level 3 : Team Project
+### 기간
+- 2022.06.28 – 2022.10.21
+
+### 프로젝트 Repository
+- [모두 모여라(MOMO)](https://github.com/woowacourse-teams/2022-momo)
+
+### 사이트 바로가기
+- [모두 모여라 사이트](https://www.moyeora.site/)
+- [모모팀 기술 블로그](https://2022-momo.github.io/)
+
+#### 프로젝트 데모 영상
+- [프로젝트 1차 데모 - 팀 소개, 프로젝트 소개, 팀 문화, Github활용 방법](https://www.youtube.com/watch?v=-86HlsrqgJY)
+- [프로젝트 2차 데모 - 완료한 업무 목록, 브랜치 전략, API 관리 방법, 배포 과정, 서비스 데모](https://www.youtube.com/watch?v=FvhTuj_Cxvk)
+- [프로젝트 3차 데모 - 완료한 업무 목록, Logging, HTTPS, 변경된 인프라, 시멘틱 버저닝, 서비스 데모](https://www.youtube.com/watch?v=W5Rloao4zuQ&t=270s)
+
+### 블로그 포스팅
+- [[JPA] JPA란?](https://seongwon.dev/Spring/20220705-JPA%EB%9E%80/)
+- [[JPA] 엔티티 생명주기와 영속성 컨텍스트](https://seongwon.dev/Spring/20220706-%EC%97%94%ED%8B%B0%ED%8B%B0-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%EC%99%80-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8/)
+- [CI/CD란?](https://seongwon.dev/DevOps/20220713-CICD%EB%9E%80/)
+- [[DevOps] Jenkins를 통한 CI/CD 구축기 1편 (Jenkins 설치)](https://seongwon.dev/DevOps/20220715-CICD%EA%B5%AC%EC%B6%95%EA%B8%B01/)
+- [[DevOps] Jenkins를 통한 CI/CD 구축기 2편 (Backend CI/CD 구축)](https://seongwon.dev/DevOps/20220717-CICD%EA%B5%AC%EC%B6%95%EA%B8%B02/)
+- [[DevOps] Jenkins를 통한 CI/CD 구축기 3편 (Frontend CI/CD 구축)](https://seongwon.dev/DevOps/20220728-CICD%EA%B5%AC%EC%B6%95%EA%B8%B03/)
+- [[Git] Submodule이란?](https://seongwon.dev/Git/20220811-Git%20Submodule%EC%9D%B4%EB%9E%80/)
+- [[AWS, MySQL] - Private Ec2에 MySQL설치 및 원격 접속 설정하기](https://seongwon.dev/DevOps/20220813-MySQL%EC%84%A4%EC%B9%98_%EC%9B%90%EA%B2%A9%EC%A0%91%EC%86%8D%EC%84%A4%EC%A0%95/)
+- [[DevOps] - Jenkins를 통한 CI/CD 구축기 4편 (Backend DB 구축)](https://seongwon.dev/DevOps/20220814-CICD%EA%B5%AC%EC%B6%95%EA%B8%B04/)
+- [[JPA] JPA Specification(Criteria)을 통한 조회 필터링 기능 구현](https://seongwon.dev/Spring/20220817-JPA-Specification/)
+- [[Spring] Spring Profile을 통한 실행 환경 분리](https://seongwon.dev/Spring/20220821-%EC%8A%A4%ED%94%84%EB%A7%81-Profile%EC%9D%B4%EB%9E%80/)
+- [[JPA] 엔티티(Entity) 매핑](https://seongwon.dev/Spring/20220823-JPA-%EC%97%94%ED%8B%B0%ED%8B%B0%EB%A7%A4%ED%95%91/)
+- [[JPA] 엔티티간 연관관계](https://seongwon.dev/Spring/20220824-JPA-%EC%97%94%ED%8B%B0%ED%8B%B0%EA%B0%84_%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84/)
+- [[JPA] 프록시와 지연로딩](https://seongwon.dev/Spring/20220825-JPA-%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80-%EC%A7%80%EC%97%B0%EB%A1%9C%EB%94%A9/)
+- [[JPA] 영속성 전이와 고아객체](https://seongwon.dev/Spring/20220826-JPA-%EC%98%81%EC%86%8D%EC%84%B1_%EC%A0%84%EC%9D%B4%EC%99%80_%EA%B3%A0%EC%95%84%EA%B0%9D%EC%B2%B4/)
+- [[JPA] JPQL이란?](https://seongwon.dev/Spring/20220829-JPA-JPQL/)
+- [[JPA] Spring Data JPA란?](https://seongwon.dev/Spring/20220911-Spring-Data-JPA%EB%9E%80/)
+
