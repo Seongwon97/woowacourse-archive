@@ -69,7 +69,6 @@
 |    블랙잭/step2    |       [java-blackjack/step2](https://github.com/Seongwon97/java-blackjack/tree/step2)       |[Pull Request](https://github.com/woowacourse/java-blackjack/pull/311)|                                     |  [철시](https://github.com/pkch93)  |
 |  체스/step1,2,3   |         [java-chess/step1,2,3](https://github.com/Seongwon97/java-chess/tree/step1)         |[Pull Request](https://github.com/woowacourse/java-chess/pull/301)| [차리](https://github.com/cjlee38)  | [범블비](https://github.com/ddaaac) |
 |   체스/step4,5    |          [java-chess/step4,5](https://github.com/Seongwon97/java-chess/tree/step2)          |[Pull Request](https://github.com/woowacourse/java-chess/pull/372)|                                     | [범블비](https://github.com/ddaaac)  |
-|      글쓰기/우아한테크코스 한 달 생활기       | [woowa-writing-4/seongwon97](https://github.com/Seongwon97/woowa-writing-4/tree/seongwon97) |[Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/39)|                                     |   |
 
 ### 블로그 포스팅
 - [Git이란?](https://seongwon.dev/Git/20220217-Git%EC%9D%B4%EB%9E%80/)
@@ -124,7 +123,7 @@
 |   Spring 경로 조회/step2   |   [atdd-subway-path/step2](https://github.com/Seongwon97/atdd-subway-path/tree/step2)    |[Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/263)|                                       | [루피](https://github.com/TheDevLuffy) |
 |   Spring 장바구니/step1    |  [jwp-shopping-cart/step1](https://github.com/Seongwon97/jwp-shopping-cart/tree/step1)   |[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/25)|  [아리](https://github.com/ulimy)   |   [에단](https://github.com/Laterality)   |
 |   Spring 장바구니/step2    |  [jwp-shopping-cart/step2](https://github.com/Seongwon97/jwp-shopping-cart/tree/step2)   |[Pull Request](https://github.com/woowacourse/jwp-shopping-cart/pull/121)|                                       |   [에단](https://github.com/Laterality)   |
-|      글쓰기/우테코에서 찾은 나만의 효과적인 공부법       |  [woowa-writing-4/step2](https://github.com/Seongwon97/woowa-writing-4/tree/step2)   |[Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/169)|                                     |   |
+
 
 ### 블로그 포스팅
 - [[Spring] GetMapping](https://seongwon.dev/Spring/20220421-Spring-Get-Mapping/)
@@ -200,6 +199,17 @@
 
 ### 블로그 포스팅
 - []()
+
+<br/>
+
+## 📝 Writing : 글쓰기 코스
+### 진행 미션
+|Level |        Topic         |                                         Writing                                         |Pull Request |
+|:----:|:--------------------:|:---------------------------------------------------------------------------------:|:-----------:|
+|1 - 기록|   우아한테크코스 한 달 생활기    | [편하게 보기](https://github.com/Seongwon97/woowa-writing-4/blob/seongwon97/Level1.md) |[Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/39)|
+|2 - 성장|우테코에서 찾은 나만의 효과적인 공부법 |   [편하게 보기](https://github.com/Seongwon97/woowa-writing-4/blob/step2/Level2.md)    |[Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/169)|
+|3 - 회고|   팀 프로젝트가 나에게 남긴 것   |   [편하게 보기](https://github.com/Seongwon97/woowa-writing-4/blob/step3/Level3.md)    |[Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/252)|
+
 
 <br/>
 
