@@ -174,7 +174,7 @@
 - [[DevOps] Jenkins를 통한 CI/CD 구축기 3편 (Frontend CI/CD 구축)](https://seongwon.dev/DevOps/20220728-CICD%EA%B5%AC%EC%B6%95%EA%B8%B03/)
 - [[Git] Submodule이란?](https://seongwon.dev/Git/20220811-Git%20Submodule%EC%9D%B4%EB%9E%80/)
 - [[AWS, MySQL] - Private Ec2에 MySQL설치 및 원격 접속 설정하기](https://seongwon.dev/DevOps/20220813-MySQL%EC%84%A4%EC%B9%98_%EC%9B%90%EA%B2%A9%EC%A0%91%EC%86%8D%EC%84%A4%EC%A0%95/)
-- [[DevOps] - Jenkins를 통한 CI/CD 구축기 4편 (Backend DB 구축)](https://seongwon.dev/DevOps/20220814-CICD%EA%B5%AC%EC%B6%95%EA%B8%B04/)
+- [[DevOps] Jenkins를 통한 CI/CD 구축기 4편 (Backend DB 구축)](https://seongwon.dev/DevOps/20220814-CICD%EA%B5%AC%EC%B6%95%EA%B8%B04/)
 - [[JPA] JPA Specification(Criteria)을 통한 조회 필터링 기능 구현](https://seongwon.dev/Spring/20220817-JPA-Specification/)
 - [[Spring] Spring Profile을 통한 실행 환경 분리](https://seongwon.dev/Spring/20220821-%EC%8A%A4%ED%94%84%EB%A7%81-Profile%EC%9D%B4%EB%9E%80/)
 - [[JPA] 엔티티(Entity) 매핑](https://seongwon.dev/Spring/20220823-JPA-%EC%97%94%ED%8B%B0%ED%8B%B0%EB%A7%A4%ED%95%91/)
@@ -223,14 +223,14 @@
 
 <br/>
 
-## 📝 Writing : 글쓰기 코스
+## 🖋 Writing : 글쓰기 코스
 ### 진행 미션
-|Level |        Topic         |                                         Writing                                         |Pull Request |
-|:----:|:--------------------:|:---------------------------------------------------------------------------------:|:-----------:|
-|1 - 기록|   우아한테크코스 한 달 생활기    | [편하게 보기](https://github.com/Seongwon97/woowa-writing-4/blob/seongwon97/Level1.md) |[Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/39)|
-|2 - 성장|우테코에서 찾은 나만의 효과적인 공부법 |   [편하게 보기](https://github.com/Seongwon97/woowa-writing-4/blob/step2/Level2.md)    |[Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/169)|
-|3 - 회고|   팀 프로젝트가 나에게 남긴 것   |   [편하게 보기](https://github.com/Seongwon97/woowa-writing-4/blob/step3/Level3.md)    |[Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/252)|
-|4 - 시작|   내가 꿈꾸는 프로그래머로서의 삶   |   [편하게 보기](https://github.com/Seongwon97/woowa-writing-4/blob/step4/Level4.md)    |[Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/373)|
+| Level  |        Topic         |                                         Writing                                         |                                           Pull Request                                            |
+|:------:|:--------------------:|:---------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------:|
+| 1 - 기록 |   우아한테크코스 한 달 생활기    | [편하게 보기](https://github.com/Seongwon97/woowa-writing-4/blob/seongwon97/Level1.md) |              [Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/39)               |
+| 2 - 성장 |우테코에서 찾은 나만의 효과적인 공부법 |   [편하게 보기](https://github.com/Seongwon97/woowa-writing-4/blob/step2/Level2.md)    |              [Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/169)              |
+| 3 - 회고 |   팀 프로젝트가 나에게 남긴 것   |   [편하게 보기](https://github.com/Seongwon97/woowa-writing-4/blob/step3/Level3.md)    |              [Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/252)              |
+| 4 - 시작 |   내가 꿈꾸는 프로그래머로서의 삶   |   [편하게 보기](https://github.com/Seongwon97/woowa-writing-4/blob/step4/Level4.md)    |              [Pull Request](https://github.com/woowacourse/woowa-writing-4/pull/373)              |
 
 
 <br/>
