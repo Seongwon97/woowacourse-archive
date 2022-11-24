@@ -203,18 +203,14 @@
 - 2022.08.30 – 2022.10.28
 
 ### 진행 미션
-|        Project        |                                       Repository                                        |Pull Request |Reviewer |
-|:---------------------:|:---------------------------------------------------------------------------------------:|:-----------:|:-------:|
-|     톰캣 구현하기/step1     | [jwp-dashboard-http/step1](https://github.com/Seongwon97/jwp-dashboard-http/tree/step1) |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/130)|[토닉](https://github.com/tonic523)|
-|     톰캣 구현하기/step2     | [jwp-dashboard-http/step2](https://github.com/Seongwon97/jwp-dashboard-http/tree/step2) |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/200)|[토닉](https://github.com/tonic523)|
-|    톰캣 구현하기/step3,4    | [jwp-dashboard-http/step3,4](https://github.com/Seongwon97/jwp-dashboard-http/tree/step3%2C4)  |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/249)|[토닉](https://github.com/tonic523)|
-|    MVC 구현하기/step1    | [jwp-dashboard-mvc/step1](https://github.com/Seongwon97/jwp-dashboard-mvc/tree/step1)  |[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/127)|[썬](https://github.com/syoun602)|
-|    MVC 구현하기/step2    | [jwp-dashboard-mvc/step2](https://github.com/Seongwon97/jwp-dashboard-mvc/tree/step2)  |[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/215)|[썬](https://github.com/syoun602)|
-|    MVC 구현하기/step3    | [jwp-dashboard-mvc/step3](https://github.com/Seongwon97/jwp-dashboard-mvc/tree/step3)  |[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/300)|[썬](https://github.com/syoun602)|
-|    JDBC 라이브러리 구현하기/step1    | [jwp-dashboard-jdbc/step1](https://github.com/Seongwon97/jwp-dashboard-jdbc/tree/step1)  |[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/71)|[연로그](https://github.com/yeon-06)|
-|    JDBC 라이브러리 구현하기/step2    | [jwp-dashboard-jdbc/step1](https://github.com/Seongwon97/jwp-dashboard-jdbc/tree/step2)  |[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/155)|[연로그](https://github.com/yeon-06)|
-|    JDBC 라이브러리 구현하기/step3    | [jwp-dashboard-jdbc/step1](https://github.com/Seongwon97/jwp-dashboard-jdbc/tree/step3)  |[Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/200)|[연로그](https://github.com/yeon-06)|
-
+|     Project     |                                          Repository                                           |Pull Request |             Reviewer              |
+|:---------------:|:---------------------------------------------------------------------------------------------:|:-----------:|:---------------------------------:|
+|  톰캣 구현하기/step1  |    [jwp-dashboard-http/step1](https://github.com/Seongwon97/jwp-dashboard-http/tree/step1)    |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/130)| [토닉](https://github.com/tonic523) |
+|  톰캣 구현하기/step2  |    [jwp-dashboard-http/step2](https://github.com/Seongwon97/jwp-dashboard-http/tree/step2)    |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/200)| [토닉](https://github.com/tonic523) |
+| 톰캣 구현하기/step3,4 | [jwp-dashboard-http/step3,4](https://github.com/Seongwon97/jwp-dashboard-http/tree/step3%2C4) |[Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/249)| [토닉](https://github.com/tonic523) |
+| MVC 구현하기/step1  |     [jwp-dashboard-mvc/step1](https://github.com/Seongwon97/jwp-dashboard-mvc/tree/step1)     |[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/127)|     [썬](https://github.com/syoun602)      |
+| MVC 구현하기/step1  |     [jwp-dashboard-mvc/step2](https://github.com/Seongwon97/jwp-dashboard-mvc/tree/step2)     |[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/215)|     [썬](https://github.com/syoun602)      |
+| MVC 구현하기/step1  |     [jwp-dashboard-mvc/step3](https://github.com/Seongwon97/jwp-dashboard-mvc/tree/step3)     |[Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/300)|     [썬](https://github.com/syoun602)      |
 
 ### 블로그 포스팅
 - [트랜잭션이란?](https://seongwon.dev/Database/20221001-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%EC%9D%B4%EB%9E%80/)
